@@ -13,9 +13,9 @@ The chatbot allows users to seamlessly **place new orders**, **remove food items
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend (NLP Interface)** 
-- **Backend (API Layer)**  
-- **Database (Persistence)** 
+- **Google Cloud Dialogflow (Frontend)** 
+- **Python fastAPI (backend)**  
+- **MySQL Database (data base)** 
 
 ---
 
