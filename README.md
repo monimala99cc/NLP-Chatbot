@@ -19,7 +19,7 @@ The chatbot allows users to seamlessly **place new orders**, **remove food items
 
 ---
 
-### 5️⃣ Exposing FastAPI to Dialogflow (ngrok)
+## Exposing FastAPI to Dialogflow (ngrok)
 Dialogflow requires a public **HTTPS endpoint** for webhook calls.  
 During development, we used [ngrok](https://ngrok.com/) to expose the FastAPI backend securely:
 
