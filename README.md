@@ -25,7 +25,7 @@ During development, we used [ngrok](https://ngrok.com/) to expose the FastAPI ba
 
 ```bash
 ngrok http 8000
-
+```
 ---
 
 ## 📂 Project Structure
